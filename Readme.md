@@ -1,1 +1,1 @@
-# This repo is meant ofr sourceforge
+# This repo is meant for sourceforge
